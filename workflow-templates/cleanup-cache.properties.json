@@ -1,0 +1,4 @@
+{
+    "name": "Cleanup Cache",
+    "description": "This workflow will delete cached data after a PR is marked as 'closed'"
+}
