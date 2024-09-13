@@ -1,8 +1,8 @@
-name: cleanup cache
+name: cache
 on:
   workflow_call:
 jobs:
-  cleanup-cache:
+  cache_cleanup:
     runs-on: ubuntu-latest
     steps:
       - name: Cleanup

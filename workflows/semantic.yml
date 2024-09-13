@@ -1,11 +1,11 @@
-name: Semantic PR
+name: semantic
 on:
   workflow_call:
   permissions:
     pull-requests: read
 
 jobs:
-  main:
+  semantic_pr-name:
     name: Validate PR title
     runs-on: ubuntu-latest
     steps:
