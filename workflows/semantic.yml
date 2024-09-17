@@ -1,9 +1,6 @@
 name: semantic
 on:
   workflow_call:
-  permissions:
-    pull-requests: read
-
 jobs:
   semantic_pr-name:
     name: Validate PR title
