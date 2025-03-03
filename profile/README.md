@@ -1,12 +1,10 @@
-## Release Page WIP
+## Release Page
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Repository | Version | Release Date |
+|------------|---------|--------------|
+| evva-sfw/abrevva-flutter | [![GitHub Release](https://img.shields.io/github/v/release/evva-sfw/abrevva-flutter?label=%20)](https://github.com/evva-sfw/abrevva-flutter/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/evva-sfw/abrevva-flutter?display_date=published_at&label=%20) |
+| evva-sfw/abrevva-capacitor | [![GitHub Release](https://img.shields.io/github/v/release/evva-sfw/abrevva-capacitor?label=%20)](https://github.com/evva-sfw/abrevva-capacitor/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/evva-sfw/abrevva-capacitor?display_date=published_at&label=%20) |
+| evva-sfw/abrevva-react-native | [![GitHub Release](https://img.shields.io/github/v/release/evva-sfw/abrevva-react-native?label=%20)](https://github.com/evva-sfw/abrevva-react-native/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/evva-sfw/abrevva-react-native?display_date=published_at&label=%20) |
+| evva-sfw/capacitor-secure-storage-plugin | [![GitHub Release](https://img.shields.io/github/v/release/evva-sfw/capacitor-secure-storage-plugin?label=%20)](https://github.com/evva-sfw/capacitor-secure-storage-plugin/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/evva-sfw/capacitor-secure-storage-plugin?display_date=published_at&label=%20) |
+| evva-sfw/nest-auth-client | [![GitHub Release](https://img.shields.io/github/v/release/evva-sfw/nest-auth-client?label=%20)](https://github.com/evva-sfw/nest-auth-client/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/evva-sfw/nest-auth-client?display_date=published_at&label=%20) |
+| evva-sfw/nest-mqtt | [![GitHub Release](https://img.shields.io/github/v/release/evva-sfw/nest-mqtt?label=%20)](https://github.com/evva-sfw/nest-mqtt/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/evva-sfw/nest-mqtt?display_date=published_at&label=%20) |
