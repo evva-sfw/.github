@@ -18,5 +18,5 @@ echo "|------------|---------|--------------|"
 
 # Fetch latest release info for each repository
 for repo in "${REPOS[@]}"; do
-    echo "| $repo | [![GitHub Release](https://img.shields.io/github/v/release/$repo?label=%20)](https://github.com/$repo/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/$repo?display_date=published_at&label=%20) |"
+    echo "| [$repo](https://github.com/$repo) | [![GitHub Release](https://img.shields.io/github/v/release/$repo?label=%20)](https://github.com/$repo/releases/latest) | ![GitHub Release Date](https://img.shields.io/github/release-date/$repo?display_date=published_at&label=%20) |"
 done
