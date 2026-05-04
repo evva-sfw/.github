@@ -5,7 +5,6 @@ REPOS=(
     "evva-sfw/abrevva-flutter"
     "evva-sfw/abrevva-capacitor"
     "evva-sfw/abrevva-react-native"
-    "evva-sfw/capacitor-secure-storage-plugin"
     "evva-sfw/nest-auth-client"
     "evva-sfw/nest-mqtt"
 )
